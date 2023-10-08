@@ -1,3 +1,3 @@
 # Senac-C-Exercises
 
-Exercícios referentes ao começo do primeiro semestre do Jovem Programador.
+Exercícios em C++ e C# referentes ao começo do primeiro semestre do Jovem Programador.
